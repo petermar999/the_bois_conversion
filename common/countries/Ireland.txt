@@ -1,0 +1,170 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 112 150 105 }
+revolutionary_colors = { 10 0 6 }
+historical_idea_groups = {
+	maritime_ideas
+	aristocracy_ideas
+	exploration_ideas
+	trade_ideas
+	economic_ideas
+	innovativeness_ideas
+	spy_ideas
+	administrative_ideas
+}
+historical_units = {
+	anglofrench_line
+	british_hussar
+	british_redcoat
+	british_square
+	gaelic_free_shooter
+	gaelic_galloglaigh
+	gaelic_mercenary
+	irish_charge
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+}
+monarch_names = {
+	"Aaron #1" = 10
+	"Ailpín #1" = 10
+	"Ainftech #1" = 10
+	"Anfudán #2" = 10
+	"Anmchad #1" = 10
+	"Asiya #0" = -1
+	"Báethíne #1" = 10
+	"Cangrande #0" = 0
+	"Cawdaf #0" = 0
+	"Caírech #0" = -1
+	"Ciarán #1" = 10
+	"Comgán #1" = 10
+	"Conmáel #0" = 0
+	"Cáemán #0" = 0
+	"Dabíd #1" = 10
+	"Dalbach #1" = 10
+	"Díglach #0" = 0
+	"Ellbríg #0" = -1
+	"Ewyas #0" = 0
+	"Farannán #1" = 10
+	"Ferdomnach #1" = 10
+	"Ffriog #0" = 0
+	"Fothad #1" = 10
+	"Fáelcar #0" = 0
+	"Gilla-Íosa #1" = 10
+	"Gisèle #0" = -1
+	"Hæsteinn #1" = 10
+	"Iliana #0" = -1
+	"Io #1" = 10
+	"Iolo #1" = 10
+	"Irnek #1" = 10
+	"Jindrich #1" = 10
+	"Lann #0" = -1
+	"Ludolf #1" = 10
+	"Lóchéne #1" = 10
+	"Mac-Laisre #1" = 10
+	"Maches #0" = -1
+	"Magnus #1" = 10
+	"Marcella #0" = -1
+	"Muadhnait #0" = -1
+	"Máel-Muire #0" = -1
+	"Máirgred #0" = -1
+	"Múadán #1" = 10
+	"Nuadu #0" = 0
+	"Orson #0" = 0
+	"Qawurd #0" = 0
+	"Rhiwal #1" = 10
+	"Rogallach #1" = 10
+	"Ross #0" = 0
+	"Ruggiero #0" = 0
+	"Rónchú #1" = 10
+	"Sa'daddin #0" = 0
+	"Samira #0" = -1
+	"Scandal #1" = 10
+	"Somhairle #0" = 0
+	"Styrkar #1" = 10
+	"Sviatoslava #0" = -1
+	"Tanaz #0" = -1
+	"Taneen #0" = -1
+	"Tarasiy #1" = 10
+	"Tedaldo #0" = 0
+	"Tuathalán #1" = 10
+}
+leader_names = {
+	"Alexander"
+	"Annesley"
+	"Balfour"
+	"Barry"
+	"Blayney"
+	"Bourke"
+	"Boyle"
+	"Browne"
+	"Burke"
+	"Butler"
+	"Caulfeild"
+	"Chichester"
+	"Cholmondeley"
+	"Coote"
+	"Digby"
+	"Dillon"
+	"Dongan"
+	"Duff"
+	"Feilding"
+	"FitzGerald"
+	"FitzMaurice"
+	"FitzOliver"
+	"FitzPatrick"
+	"FitzWilliam"
+	"Fortescue"
+	"Gardiner"
+	"Grimston"
+	"Guelph"
+	"Hamilton"
+	"Hare"
+	"Hervey"
+	"Kavanagh"
+	"Keane"
+	"Keating"
+	"Lambart"
+	"Macartney"
+	"Martyn"
+	"McCarthy"
+	"Meade"
+	"Moore"
+	"Nugent"
+	"O'Brien"
+	"O'Carroll"
+	"O'Connell"
+	"O'Donnell"
+	"O'Hara"
+	"O'Malley"
+	"O'Neill"
+	"Pakenham"
+	"Parsons"
+	"Plunkett"
+	"Preston"
+	"Ridgeway"
+	"Sterne"
+	"Taaffe"
+	"Touchet"
+	"Vaughan"
+	"Villiers"
+	"Wentworth"
+	"Wesley"
+	"de Burgh"
+}
+ship_names = {
+	"Aoife"
+	"Ciara"
+	"Connacht"
+	"Eithne"
+	"Emer"
+	"Leinster"
+	"Munster"
+	"Niamh"
+	"Orla"
+	"Roisin"
+	"Ulster"
+}

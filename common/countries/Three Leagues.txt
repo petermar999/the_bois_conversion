@@ -1,0 +1,120 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 153 240 182 }
+revolutionary_colors = { 9 5 8 }
+historical_idea_groups = {
+	administrative_ideas
+	plutocracy_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	expansion_ideas
+	quality_ideas
+	innovativeness_ideas
+}
+historical_units = {
+	austrian_grenzer
+	austrian_hussar
+	austrian_jaeger
+	austrian_tercio
+	austrian_white_coat
+	halberd_infantry
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	swiss_landsknechten
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Ajo #1" = 10
+	"Alexandros #0" = 0
+	"Amalfrida #1" = -1
+	"Amefrith #2" = 10
+	"Arnifrid #1" = 10
+	"Aslihan #1" = -1
+	"Ayyub #1" = 10
+	"Bozçin #1" = -1
+	"Daniel #0" = 0
+	"Dieter #1" = 10
+	"Dogan #1" = 10
+	"Eirene #0" = -1
+	"Ferdinand #1" = 10
+	"Gacco #1" = 10
+	"Haraldr #1" = 10
+	"Helchen #1" = -1
+	"Herakleios #1" = 10
+	"Hermann #1" = 10
+	"Hunila #1" = -1
+	"Ida #1" = -1
+	"Jorge #1" = 10
+	"Kara #1" = 10
+	"Konstas #0" = 0
+	"Lancelin #1" = 10
+	"Liutbrand #2" = 10
+	"Luitgard #1" = -1
+	"Mechthild #1" = -1
+	"Nikodemos #1" = 10
+	"Nur #1" = -1
+	"Orhan #1" = 10
+	"Rothari #4" = 10
+	"Serapion #0" = 0
+	"Siegmund #0" = 0
+	"Sigismund #1" = 10
+	"Sinop #1" = 10
+	"Theudoald #1" = 10
+	"Togay #1" = 10
+	"Walthari #1" = 10
+	"Çiltanesi #1" = -1
+}
+leader_names = {
+	"Aebi"
+	"Amman"
+	"Bischofberger"
+	"Blank"
+	"Blies"
+	"Brugger"
+	"Combe"
+	"Eugster"
+	"Frei"
+	"Frisch"
+	"Gasenzer"
+	"Grüneisen"
+	"Heberlin"
+	"Helberingen"
+	"Hertzler"
+	"Hiltbrand"
+	"Honegger"
+	"Luz"
+	"Miller"
+	"Munzinger"
+	"Oberholzer"
+	"Schwendimann"
+	"Spörri"
+	"Vogt"
+	"Wächter"
+	"Zumbach"
+	"von Baltharsar"
+	"von Hasseln"
+}
+ship_names = {
+	"Berne"
+	"Dufour"
+	"Glarus"
+	"Inn"
+	"Lucerne"
+	"Rhein"
+	"Rhöne"
+	"Schwyz"
+	"Ticino"
+	"Unterwalden"
+	"Uri"
+	"Wilhelm Tell"
+	"Zug"
+	"Zürich"
+}
+army_names = {
+	"Armee von $PROVINCE$"
+}
+preferred_religion = reformed

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 3
+technology_group = ottoman
+religion = orthodox
+primary_culture = turkish
+capital = 151
+1444.11.11= {
+	monarch = {
+		name = "Iskender"
+		dynasty = "Altay"
+		adm = 4
+		dip = 5
+		mil = 3
+		birth_date = 1409.7.15
+		religion = orthodox
+		culture = turkish
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Katerina"
+		dynasty = "Ua Néill Noígiallaich"
+		adm = 1
+		dip = 4
+		mil = 1
+		country_of_origin = BYZ
+		birth_date = 1407.2.27
+		death_date = 1467.2.27
+		female = yes
+		religion = orthodox
+		culture = schlesian
+	}
+	add_queen_personality = tactical_genius_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Radoslav"
+		monarch_name = "Radoslav"
+		dynasty = "Altay"
+		adm = 4
+		dip = 3
+		mil = 4
+		birth_date = 1434.2.13
+		death_date = 1499.2.13
+		claim = 89
+		religion = orthodox
+		culture = turkmeni
+	}
+	add_heir_personality = naive_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 85
+	add_treasury = 88
+}

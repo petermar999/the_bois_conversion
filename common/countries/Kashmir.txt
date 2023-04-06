@@ -1,0 +1,139 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 63 150 30 }
+revolutionary_colors = { 4 0 4 }
+historical_idea_groups = {
+	religious_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	administrative_ideas
+	offensive_ideas
+	spy_ideas
+	diplomatic_ideas
+}
+historical_units = {
+	bhonsle_cavalry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Abdul #1" = 10
+	"Abdul-Qadir #1" = 10
+	"Abu-Bakr #1" = 10
+	"Aghlab #1" = 10
+	"Akal #0" = -1
+	"Akkadevi #1" = -1
+	"Ankit #1" = 10
+	"Asima #0" = -1
+	"Aspru #0" = -1
+	"Azam #1" = 10
+	"Bishnu #0" = -1
+	"Chandra #2" = 10
+	"Chandrapida #1" = 10
+	"Durlabhavardhana #2" = 10
+	"Finjo #1" = 10
+	"Heena #1" = -1
+	"Idris #1" = 10
+	"Ilgazi #0" = 0
+	"Isa #1" = 10
+	"Jabir #1" = 10
+	"Jalil #1" = 10
+	"Jayapida #1" = 10
+	"Jibril #2" = 10
+	"Jogama #1" = 10
+	"Kambarasa #0" = 0
+	"Kuvalayapida #1" = 10
+	"Lahna #1" = 10
+	"Lalitadiyta-Muktapida #1" = 10
+	"Malkit #0" = 0
+	"Mangalesi #0" = 0
+	"Mukhtar #1" = 10
+	"Muzaffaraddin #1" = 10
+	"Nabin #0" = 0
+	"Niangzi #0" = -1
+	"Palisha #0" = -1
+	"Praudharaya #0" = 0
+	"Prithvyapida #1" = 10
+	"Qawurd #2" = 10
+	"Rajamati #0" = -1
+	"Raju #0" = 0
+	"Ramadan #3" = 10
+	"Reshma #0" = -1
+	"Sajit #1" = 10
+	"Sankama #2" = 10
+	"Shirisha #0" = -1
+	"Srivikrama #0" = 0
+	"Sulayman #3" = 10
+	"Sunil #0" = 0
+	"Tarapida #1" = 10
+	"Tsamchoe #0" = -1
+	"Tsenma #0" = -1
+	"Vajraditya #1" = 10
+	"Zhimzhalsto #0" = -1
+}
+leader_names = {
+	"Afridi"
+	"Bahadur"
+	"Bakhsh"
+	"Bhangalia"
+	"Bhatta"
+	"Chandral"
+	"Das"
+	"Dev"
+	"Gahunia"
+	"Gami"
+	"Hamadani"
+	"Jamwal"
+	"Jivan"
+	"Kashmiri"
+	"Katoch"
+	"Kisthwaria"
+	"Kralawari"
+	"Lal"
+	"Makhdum"
+	"Malik"
+	"Mehsud"
+	"Mir"
+	"Naga"
+	"Pahore"
+	"Pakhral"
+	"Parmanand"
+	"Pundir"
+	"Rai"
+	"Shergill"
+	"Singh"
+	"Sodhi"
+	"Sohal"
+}
+ship_names = {
+	"Alia"
+	"Alisha"
+	"Aziza"
+	"Beas"
+	"Chenab"
+	"Fatimah"
+	"Guru"
+	"Indus"
+	"Jalsena"
+	"Jhelum"
+	"Khan"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Niloufa"
+	"Ravi"
+	"Sagar"
+	"Sutlej"
+	"Yasmine"
+	"Zahira"
+}

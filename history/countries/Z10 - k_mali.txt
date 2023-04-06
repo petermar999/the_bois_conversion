@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 2
+technology_group = sub_saharan
+religion = sunni
+primary_culture = bambara
+capital = 2250
+add_accepted_culture = mali
+1444.11.11= {
+	monarch = {
+		name = "Soumaoro II"
+		dynasty = "of Bambuk"
+		adm = 4
+		dip = 3
+		mil = 3
+		birth_date = 1395.2.1
+		religion = sunni
+		culture = bambara
+	}
+	add_ruler_personality = charismatic_negotiator_personality
+	add_ruler_personality = malevolent_personality
+	queen = {
+		name = "Sahba"
+		dynasty = "Baalbekid"
+		adm = 3
+		dip = 4
+		mil = 4
+		country_of_origin = Z10
+		birth_date = 1392.1.10
+		death_date = 1452.1.10
+		female = yes
+		religion = sunni
+		culture = tuareg
+	}
+	add_queen_personality = fierce_negotiator_personality
+	add_queen_personality = tolerant_personality
+	heir = {
+		name = "Ali-Kolon"
+		monarch_name = "Ali-Kolon"
+		dynasty = "of Bambuk"
+		adm = 5
+		dip = 4
+		mil = 5
+		birth_date = 1416.5.3
+		death_date = 1481.5.3
+		claim = 89
+		religion = sunni
+		culture = bambara
+	}
+	add_heir_personality = calm_personality
+	add_heir_personality = tactical_genius_personality
+}
+1444.11.11= {
+	add_prestige = 86
+	add_treasury = 57
+}

@@ -1,0 +1,103 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 89 141 140 }
+revolutionary_colors = { 6 9 6 }
+historical_idea_groups = {
+	defensive_ideas
+	diplomatic_ideas
+	quantity_ideas
+	economic_ideas
+	humanist_ideas
+	offensive_ideas
+	aristocracy_ideas
+	trade_ideas
+}
+historical_units = {
+	bhonsle_infantry
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	maharathan_guerilla_warfare
+	mughal_musketeer
+	rajput_hill_fighters
+	reformed_mughal_musketeer
+	sikh_rifle
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Amoghavarsha #1" = 10
+	"Ayanna #1" = 10
+	"Bukka #1" = 10
+	"Chandrabbalabbe #0" = -1
+	"Chavundaraya #1" = 10
+	"Gangaraja #0" = 0
+	"Kannama #2" = 10
+	"Khottiga #0" = 0
+	"Kundakadevi #0" = -1
+	"Mallikarjuna #2" = 10
+	"Narasimha #3" = 10
+	"Neetimarga #1" = 10
+	"Rachamalla #0" = 0
+	"Ramachandra #0" = 0
+	"Revakanimmadi #0" = -1
+	"Sankama #1" = 10
+	"Satyasraya #2" = 10
+	"Sharva #0" = 0
+	"Shivamara #3" = 10
+	"Sripadaraya #1" = 10
+	"Sriranga #1" = 10
+	"Thimma #0" = 0
+}
+leader_names = {
+	"Agrawal"
+	"Ambar"
+	"Bhaskar"
+	"Chirag"
+	"Dawar"
+	"Hussaini"
+	"Jitesh"
+	"Kabir"
+	"Kadak"
+	"Khan"
+	"Khot"
+	"Krishna"
+	"Kumur"
+	"Latif"
+	"Mahaldar"
+	"Naidu"
+	"Nayudu"
+	"Poosapati"
+	"Qadir"
+	"Qummi"
+	"Rao"
+	"Raya"
+	"Safsikhan"
+	"Vasireddy"
+	"Velama"
+	"Zamindari"
+	"ul Umra"
+}
+ship_names = {
+	"Alia"
+	"Aurangabad"
+	"Devki"
+	"Fatimah"
+	"Godvari"
+	"Gulbargah"
+	"Jalsena"
+	"Kala Jahazi"
+	"Khan"
+	"Lal Jahazi"
+	"Nausena"
+	"Nav ka Yudh"
+	"Niknaz"
+	"Nila Jahazi"
+	"Niloufa"
+	"Sagar"
+	"Salima"
+	"Shameena"
+	"Suhalia"
+	"Yasmine"
+}

@@ -1,0 +1,55 @@
+government = monarchy
+add_government_reform = tsardom
+government_rank = 3
+technology_group = eastern
+religion = orthodox
+primary_culture = russian_culture
+capital = 25
+1444.11.11= {
+	monarch = {
+		name = "Sviatopolk"
+		dynasty = "Lubeck"
+		adm = 5
+		dip = 3
+		mil = 3
+		birth_date = 1423.5.19
+		religion = orthodox
+		culture = russian_culture
+	}
+	add_ruler_personality = conqueror_personality
+	add_ruler_personality = industrious_personality
+	queen = {
+		name = "Hayat"
+		dynasty = "Belekid"
+		adm = 1
+		dip = 2
+		mil = 3
+		country_of_origin = RUS
+		birth_date = 1422.11.27
+		death_date = 1482.11.27
+		female = yes
+		religion = orthodox
+		culture = turkmeni
+	}
+	add_queen_personality = strict_personality
+	add_queen_personality = zealot_personality
+	heir = {
+		name = "Sudislav"
+		monarch_name = "Sudislav"
+		dynasty = "Lubeck"
+		adm = 1
+		dip = 1
+		mil = 0
+		birth_date = 1440.5.9
+		death_date = 1505.5.9
+		claim = 89
+		religion = orthodox
+		culture = byelorussian
+	}
+	add_heir_personality = fertile_personality
+	add_heir_personality = inspiring_leader_personality
+}
+1444.11.11= {
+	add_prestige = 62
+	add_treasury = 86
+}

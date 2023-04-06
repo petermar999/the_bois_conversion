@@ -1,0 +1,56 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = bedouin_arabic
+capital = 2236
+add_accepted_culture = karluk
+1444.11.11= {
+	monarch = {
+		name = "Bahir II"
+		dynasty = "Muzaffaraddin"
+		adm = 3
+		dip = 3
+		mil = 3
+		birth_date = 1412.1.2
+		religion = sunni
+		culture = bedouin_arabic
+	}
+	add_ruler_personality = intricate_web_weaver_personality
+	add_ruler_personality = secretive_personality
+	queen = {
+		name = "Wrina"
+		dynasty = "Azamid"
+		adm = 3
+		dip = 2
+		mil = 3
+		country_of_origin = KHO
+		birth_date = 1410.2.13
+		death_date = 1470.2.13
+		female = yes
+		religion = sunni
+		culture = tuareg
+	}
+	add_queen_personality = greedy_personality
+	add_queen_personality = sinner_personality
+	heir = {
+		name = "Is'mail"
+		monarch_name = "Is'mail III"
+		dynasty = "Muzaffaraddin"
+		adm = 1
+		dip = 1
+		mil = 2
+		birth_date = 1442.4.16
+		death_date = 1507.4.16
+		claim = 89
+		religion = sunni
+		culture = tuareg
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}
+1444.11.11= {
+	add_prestige = 14
+	add_treasury = 61
+}

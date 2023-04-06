@@ -1,0 +1,142 @@
+ck2_converter_generated = yes
+graphical_culture = westerngfx
+color = { 165 89 27 }
+revolutionary_colors = { 15 16 0 }
+historical_idea_groups = {
+	trade_ideas
+	maritime_ideas
+	defensive_ideas
+	exploration_ideas
+	economic_ideas
+	religious_ideas
+	innovativeness_ideas
+	offensive_ideas
+}
+historical_units = {
+	anglofrench_line
+	dutch_maurician
+	french_bluecoat
+	french_caracolle
+	french_cuirassier
+	french_dragoon
+	french_impulse
+	mixed_order_infantry
+	napoleonic_lancers
+	napoleonic_square
+	open_order_cavalry
+	western_medieval_infantry
+	western_medieval_knights
+	western_men_at_arms
+}
+monarch_names = {
+	"Aechte #0" = -1
+	"Aldgisl #2" = 10
+	"Anna #0" = -1
+	"Arnold #0" = 0
+	"Artuk #0" = 0
+	"Badeloge #0" = -1
+	"Barnaerd #0" = 0
+	"Claes #0" = 0
+	"Danismend #1" = 10
+	"Efa #0" = -1
+	"Fenne #1" = -1
+	"Frans #0" = 0
+	"Gijsbrecht #0" = 0
+	"Godfried #0" = 0
+	"Gundebold #1" = 10
+	"Gwijde #1" = 10
+	"Géraud #0" = 0
+	"Irene #0" = -1
+	"Jan #1" = 10
+	"Katrien #1" = -1
+	"Lambert #3" = 10
+	"Lodewijk #1" = 10
+	"Muslihiddin #0" = 0
+	"Mélisande #0" = -1
+	"Poppo #1" = 10
+	"Radboud #2" = 10
+	"Robin #0" = 0
+	"Rutger #1" = 10
+	"Sechok #0" = 0
+	"Shlomo #0" = 0
+	"Tekin #0" = 0
+	"Theocharistos #2" = 10
+	"Wenna #0" = -1
+}
+leader_names = {
+	"Banda"
+	"Barents"
+	"Bergsma"
+	"Bonga"
+	"De Vries"
+	"Donia"
+	"Dykstra"
+	"Eelsma"
+	"Elsinga"
+	"Friso"
+	"Galama"
+	"Gauma"
+	"Halbertsma"
+	"Japisk"
+	"Jongstra"
+	"Jousma"
+	"Kamminga"
+	"Kamstra"
+	"Kiestra"
+	"Kooistra"
+	"Martena"
+	"Riemersma"
+	"Ripperda"
+	"Roorda"
+	"Saakma"
+	"Sems"
+	"Stellingwerf"
+	"Stiensma"
+	"Stijl"
+	"Sytstra"
+	"Tjerkstra"
+	"Van Schellinkhout"
+	"Van Uylenburgh"
+	"Wynja"
+}
+ship_names = {
+	"Bernlef"
+	"Boalsert"
+	"Damwâld"
+	"De Swarte Heap"
+	"Dokkum"
+	"Drylts"
+	"Frede"
+	"Frijheid"
+	"Frisia Magna"
+	"Frjentsjer"
+	"Fryslân"
+	"Fryslân Boppe"
+	"Grut Fryslân"
+	"Grutte Pier"
+	"Harns"
+	"Heitelân"
+	"Hylpen"
+	"It Beaken"
+	"It Frouke"
+	"Kening Poppo"
+	"Kening Redbad"
+	"Kriich"
+	"Lauwers"
+	"Leaver dea as slaaf"
+	"Ljouwert"
+	"Pier Gerlofs Donia"
+	"Sleat"
+	"Snits"
+	"Starum"
+	"Sudersee"
+	"Thiadsvind"
+	"Wapen fan Fryslân"
+	"Warkum"
+}
+army_names = {
+	"Leger van $PROVINCE$"
+}
+fleet_names = {
+	"Vloot van $PROVINCE$"
+}

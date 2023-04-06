@@ -1,0 +1,131 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 215 12 64 }
+revolutionary_colors = { 13 16 0 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	defensive_ideas
+	trade_ideas
+	spy_ideas
+	economic_ideas
+	diplomatic_ideas
+	aristocracy_ideas
+}
+historical_units = {
+	indian_arquebusier
+	indian_elephant
+	indian_footsoldier
+	indian_rifle
+	indian_shock_cavalry
+	mughal_mansabdar
+	mughal_musketeer
+	rajput_hill_fighters
+	rajput_musketeer
+	reformed_mughal_mansabdar
+	reformed_mughal_musketeer
+}
+monarch_names = {
+	"Akal #0" = -1
+	"Akkadevi #1" = -1
+	"Amaradeva #1" = 10
+	"Amshuvarman #1" = 10
+	"Ankit #1" = 10
+	"Asima #0" = -1
+	"Aspru #0" = -1
+	"Baladeva #1" = 10
+	"Baliraja #2" = 10
+	"Bhimarjunadeva #1" = 10
+	"Bishnu #0" = -1
+	"Chandra #2" = 10
+	"Degyal #3" = 10
+	"Dharmadeva #1" = 10
+	"Dharmapala #1" = 10
+	"Dhruvadeva #1" = 10
+	"Finjo #1" = 10
+	"Ganadeva #1" = 10
+	"Gangadeva #1" = 10
+	"Gunakamadeva #1" = 10
+	"Heena #1" = -1
+	"Ilgazi #0" = 0
+	"Jayadeva #1" = 10
+	"Jogama #1" = 10
+	"Kambarasa #0" = 0
+	"Lotsen #2" = 10
+	"Mahideva #1" = 10
+	"Malkit #0" = 0
+	"Manadeva #3" = 10
+	"Mangalesi #0" = 0
+	"Manudeva #1" = 10
+	"Nabin #0" = 0
+	"Narendradeva #1" = 10
+	"Niangzi #0" = -1
+	"Palisha #0" = -1
+	"Praudharaya #0" = 0
+	"Rajamati #0" = -1
+	"Raju #3" = 10
+	"Ramadeva #1" = 10
+	"Reshma #0" = -1
+	"Sajit #1" = 10
+	"Sankama #2" = 10
+	"Sankaradeva #2" = 10
+	"Shirisha #0" = -1
+	"Shivadeva #2" = 10
+	"Srivikrama #0" = 0
+	"Sunil #0" = 0
+	"Tridu #1" = 10
+	"Tsamchoe #0" = -1
+	"Tsenma #0" = -1
+	"Udayadeva #1" = 10
+	"Udgam #4" = 10
+	"Vamanadeva #1" = 10
+	"Vasantadeva #1" = 10
+	"Zhimzhalsto #0" = -1
+}
+leader_names = {
+	"Bahadur"
+	"Bikram"
+	"Chand"
+	"Chhettri"
+	"Dev"
+	"Gurung"
+	"Koirala"
+	"Limbu"
+	"Madhesi"
+	"Magar"
+	"Malla"
+	"Rai"
+	"Rana"
+	"Thapa"
+	"Yadav"
+}
+ship_names = {
+	"Arun"
+	"Behri"
+	"Bhote Kosi"
+	"Devi"
+	"Dudh Kosi"
+	"Durga"
+	"Gayatri"
+	"Jalsena"
+	"Kala Jahazi"
+	"Kali Gandaki"
+	"Karnali"
+	"Lakshmi"
+	"Lal Jahazi"
+	"Narayani"
+	"Nausena"
+	"Nav ka Yudh"
+	"Nila Jahazi"
+	"Parvati"
+	"Radha"
+	"Rapti"
+	"Ratri"
+	"Sagar"
+	"Sapt Kosi"
+	"Sarasvati"
+	"Seti"
+	"Sita"
+	"Sun Kosi"
+	"Trishuli"
+}

@@ -1,0 +1,101 @@
+ck2_converter_generated = yes
+graphical_culture = indiangfx
+color = { 224 146 113 }
+revolutionary_colors = { 6 13 6 }
+historical_idea_groups = {
+	quantity_ideas
+	spy_ideas
+	religious_ideas
+	defensive_ideas
+	trade_ideas
+	economic_ideas
+	diplomatic_ideas
+	offensive_ideas
+}
+historical_units = {
+	indian_archers
+	indian_arquebusier
+	indian_footsoldier
+	indian_rifle
+	sikh_hit_and_run
+	tipu_sultan_rocket
+}
+monarch_names = {
+	"Achalraja #2" = 10
+	"Achugi #0" = 0
+	"Akal #1" = -1
+	"Alsi #2" = 10
+	"Amir #0" = 0
+	"Arjunpal #1" = 10
+	"Bhoj #1" = 10
+	"Bhopal #1" = 10
+	"Birpal #0" = 0
+	"Chandaladevi #0" = -1
+	"Govinda #1" = 10
+	"Govindaraja #0" = 0
+	"Hoysaladevi #0" = -1
+	"Jayapala #0" = 0
+	"Jayasimha #1" = 10
+	"Jogama #0" = 0
+	"Kanchuka #0" = -1
+	"Kiratpal #3" = 10
+	"Nagapala #1" = 10
+	"Narayanapala #0" = 0
+	"Narpal #1" = 10
+	"Pavak #0" = 0
+	"Pertal #0" = -1
+	"Ramabhadra #3" = 10
+	"Revakanimmadi #1" = -1
+	"Shaliwahan #2" = 10
+	"Shantaladevi #1" = -1
+	"Sharva #1" = 10
+	"Somasi #1" = 10
+	"Sovideva #0" = 0
+	"Sriranga #0" = 0
+	"Srivikrama #0" = 0
+	"Sukhinpala #1" = 10
+	"Suvrata #1" = -1
+	"Thimma #0" = 0
+	"Varshapala #0" = 0
+	"Vidyadhara #1" = 10
+	"Vijamba #0" = -1
+	"Vishnugopa #1" = 10
+}
+leader_names = {
+	"Ballar"
+	"Chandi"
+	"Deogadhi"
+	"Gadhi"
+	"Garha-Mandli"
+	"Haihaya"
+	"Kherli"
+	"Narayan"
+	"Palamaui"
+	"Raj Gondi"
+	"Raksel"
+	"Shahi"
+	"Simha"
+}
+ship_names = {
+	"Amitha"
+	"Amman"
+	"Arul"
+	"Baitarani"
+	"Balasore"
+	"Balugaon"
+	"Brahmani"
+	"Chellam"
+	"Devi"
+	"Durga"
+	"Juggernaut"
+	"Lakshmi"
+	"Mahanadi"
+	"Mou"
+	"Nilima"
+	"Paradeep"
+	"Parvati"
+	"Radha"
+	"Sarasvati"
+	"Sharmistha"
+	"Tuli"
+}

@@ -1,0 +1,110 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 177 207 205 }
+revolutionary_colors = { 10 0 10 }
+historical_idea_groups = {
+	religious_ideas
+	offensive_ideas
+	trade_ideas
+	defensive_ideas
+	economic_ideas
+	spy_ideas
+	diplomatic_ideas
+	administrative_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Afsin #0" = 0
+	"Al-Alta #0" = -1
+	"Alp Arslan #0" = 0
+	"Artuk #2" = 10
+	"Aydin #2" = 10
+	"Ayla #0" = -1
+	"Aytekin #1" = 10
+	"Batuhan #1" = 10
+	"Baturay #0" = 0
+	"Bayezid #2" = 10
+	"Belek #2" = 10
+	"Bijjabbe #0" = -1
+	"Bozçin #0" = -1
+	"Bugra #2" = 10
+	"Böritegin #1" = 10
+	"Ceylan #0" = -1
+	"Chandrabbalabbe #0" = -1
+	"Ertan #0" = 0
+	"Fatma #0" = -1
+	"Gunduz #0" = 0
+	"Gungsrong Gungtsen #1" = 10
+	"Hizir #1" = 10
+	"Huriye #0" = -1
+	"Jekundag #1" = 10
+	"Kaiqobad #1" = 10
+	"Kaya #1" = 10
+	"Kutalmis #0" = 0
+	"Lakshmi #0" = -1
+	"Lha Balpo #1" = 10
+	"Machig #0" = -1
+	"Mangsong Mangtsen #1" = 10
+	"Me Agtsom #1" = 10
+	"Meizi #0" = -1
+	"Mesud #2" = 10
+	"Muné #1" = 10
+	"Mutri #1" = 10
+	"Nyawela #0" = -1
+	"Renxian #0" = 0
+	"Sencer #1" = 10
+	"Sevilay #0" = -1
+	"Sibel #0" = -1
+	"Sinan #1" = 10
+	"Song Detsen #1" = 10
+	"Songtsen Gampo #1" = 10
+	"Suleyman #1" = 10
+	"Sökmen #1" = 10
+	"Sönmez #1" = 10
+	"Tangqiao #0" = -1
+	"Tanrivermis #1" = 10
+	"Tekin #0" = 0
+	"Thrimalö #1" = -1
+	"Tridu Songtsen #1" = 10
+	"Trisong Detsen #1" = 10
+	"Yakut #1" = 10
+	"Yaoying #0" = -1
+}
+leader_names = {
+	"Gampo"
+	"Phuntsok"
+	"Sonam"
+	"Sregs"
+	"Srong"
+	"Tashi"
+	"Thekchen"
+	"Tsewang"
+	"Wangdak"
+	"Wangdue"
+}
+ship_names = {
+	"Barkam"
+	"Dartsendo"
+	"Gartse"
+	"Gyantse"
+	"Lhasa"
+	"Lhotse"
+	"Makalu"
+	"Nagqu"
+	"Nedong"
+	"Nyingchi"
+	"Pelbar"
+	"Qamdo"
+	"Sakya"
+	"Shigatse"
+	"Tinggri"
+}

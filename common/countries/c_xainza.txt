@@ -1,0 +1,17 @@
+ck2_converter_generated = yes
+graphical_culture = asiangfx
+color = { 140 132 2 }
+monarch_names = {
+	"Bijjama #0" = 0
+	"Dringma #0" = -1
+	"Gongpa #0" = 0
+	"Gulfem #0" = -1
+	"Jetsun #0" = 0
+	"Jetsunma #0" = -1
+	"Nyima #0" = 0
+	"Samixya #0" = -1
+	"Taknye #0" = 0
+	"Taktsab #0" = 0
+	"Tsensong #0" = 0
+	"Ætæ #0" = 0
+}

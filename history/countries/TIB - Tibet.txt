@@ -1,0 +1,39 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 3
+technology_group = nomad_group
+religion = hinduism
+primary_culture = turkmeni
+1444.11.11= {
+	monarch = {
+		name = "Tanrivermis"
+		dynasty = "Altay"
+		adm = 4
+		dip = 4
+		mil = 4
+		birth_date = 1423.3.8
+		religion = hinduism
+		culture = turkmeni
+	}
+	add_ruler_personality = tactical_genius_personality
+	add_ruler_personality = well_connected_personality
+	queen = {
+		name = "Sevilay"
+		dynasty = "Karatayid"
+		adm = 4
+		dip = 1
+		mil = 5
+		country_of_origin = TIB
+		birth_date = 1422.2.21
+		death_date = 1482.2.21
+		female = yes
+		religion = hinduism
+		culture = tangut
+	}
+	add_queen_personality = conqueror_personality
+	add_queen_personality = expansionist_personality
+}
+1444.11.11= {
+	add_prestige = 91
+	add_treasury = 56
+}

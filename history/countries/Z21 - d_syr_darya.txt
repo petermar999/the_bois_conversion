@@ -1,0 +1,52 @@
+government = monarchy
+add_government_reform = iqta
+government_rank = 1
+technology_group = muslim
+religion = sunni
+primary_culture = al_suryah_arabic
+capital = 456
+add_accepted_culture = karluk
+1444.11.11= {
+	monarch = {
+		name = "Ala'i"
+		dynasty = "Taglibid"
+		adm = 3
+		dip = 2
+		mil = 3
+		birth_date = 1419.12.24
+		religion = sunni
+		culture = al_suryah_arabic
+	}
+	add_ruler_personality = pious_personality
+	add_ruler_personality = tactical_genius_personality
+	queen = {
+		name = "Shola"
+		dynasty = "Abdulid"
+		adm = 3
+		dip = 3
+		mil = 3
+		country_of_origin = Z21
+		birth_date = 1416.12.23
+		death_date = 1476.12.23
+		female = yes
+		religion = sunni
+		culture = tuareg
+	}
+	add_queen_personality = kind_hearted_personality
+	add_queen_personality = strict_personality
+	heir = {
+		name = "Ala'i"
+		monarch_name = "Ala'i II"
+		dynasty = "Taglibid"
+		adm = 1
+		dip = 0
+		mil = 0
+		birth_date = 1442.10.13
+		death_date = 1507.10.13
+		claim = 89
+		religion = sunni
+		culture = tuareg
+	}
+	add_heir_personality = well_connected_personality
+	add_heir_personality = zealot_personality
+}

@@ -1,0 +1,59 @@
+government = monarchy
+add_government_reform = ottoman_government
+government_rank = 1
+technology_group = sub_saharan
+religion = sunni
+primary_culture = mali
+capital = 4278
+fixed_capital = 4278
+add_accepted_culture = hejazi_culture
+add_accepted_culture = yemeni_culture
+1444.11.11= {
+	monarch = {
+		name = "Manding-Bory"
+		dynasty = "Boryid"
+		adm = 2
+		dip = 3
+		mil = 2
+		birth_date = 1390.9.8
+		religion = sunni
+		culture = mali
+	}
+	add_ruler_personality = just_personality
+	add_ruler_personality = tolerant_personality
+	queen = {
+		name = "Gulpari"
+		dynasty = "Najibid"
+		adm = 2
+		dip = 3
+		mil = 3
+		country_of_origin = MFL
+		birth_date = 1403.10.17
+		death_date = 1463.10.17
+		female = yes
+		religion = sunni
+		culture = tuareg
+	}
+	add_queen_personality = righteous_personality
+	add_queen_personality = tactical_genius_personality
+	heir = {
+		name = "Barakissa"
+		monarch_name = "Barakissa"
+		dynasty = "Boryid"
+		adm = 4
+		dip = 3
+		mil = 5
+		birth_date = 1425.8.13
+		death_date = 1490.8.13
+		female = yes
+		claim = 89
+		religion = sunni
+		culture = bambara
+	}
+	add_heir_personality = greedy_personality
+	add_heir_personality = scholar_personality
+}
+1444.11.11= {
+	add_prestige = 19
+	add_treasury = 45
+}

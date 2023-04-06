@@ -1,0 +1,86 @@
+ck2_converter_generated = yes
+graphical_culture = muslimgfx
+color = { 93 180 76 }
+revolutionary_colors = { 8 0 6 }
+historical_idea_groups = {
+	religious_ideas
+	economic_ideas
+	defensive_ideas
+	offensive_ideas
+	administrative_ideas
+	trade_ideas
+	diplomatic_ideas
+	spy_ideas
+}
+historical_units = {
+	asian_arquebusier
+	asian_charge_cavalry
+	asian_mass_infantry
+	asian_musketeer
+	east_asian_spearmen
+	eastern_bow
+	reformed_asian_cavalry
+	reformed_asian_musketeer
+}
+monarch_names = {
+	"Alptigin #0" = 0
+	"Alp Yurek #1" = 10
+	"Arjunavarman #2" = 10
+	"Artuk #2" = 10
+	"Ayaz #2" = 10
+	"Batuhan #1" = 10
+	"Bayezid #2" = 10
+	"Baytas #0" = 0
+	"Bugra #2" = 10
+	"Danismend #0" = 0
+	"Gön #0" = 0
+	"Hizir #1" = 10
+	"Maya #0" = -1
+	"Mengucek #0" = 0
+	"Murad #2" = 10
+	"Mutik #1" = 10
+	"Neslihan #0" = -1
+	"Pemba Goba #1" = 10
+	"Ridvan #1" = 10
+	"Saim #0" = 0
+	"Sendha Gyalpo #1" = 10
+	"Sinan #1" = 10
+	"Siptri #1" = 10
+	"Suleyman #1" = 10
+	"Tala Mebar #3" = 10
+	"Tanrivermis #0" = 0
+	"Tapa #1" = 10
+	"Tigratinsho #1" = 10
+	"Togtekin #0" = 0
+	"Trisong Detsen #1" = 10
+	"Vahide #0" = -1
+	"Yakut #1" = 10
+	"Yildiz #0" = -1
+	"Çiltanesi #0" = -1
+}
+leader_names = {
+	"Chomphel"
+	"Gyaltshen"
+	"Gyamtsho"
+	"Lhopi"
+	"Peljor"
+	"Phuntsho"
+	"Rabgye"
+	"Tshering"
+	"Wangchuk"
+	"Wangpo"
+}
+ship_names = {
+	"Chhu"
+	"Dng Chu"
+	"Manas Chu"
+	"Mangde Chu"
+	"Mo Chu"
+	"Pa Chu"
+	"Pho Chu"
+	"Punaka"
+	"Sangkosh"
+	"Thimbu"
+	"Tongsa Chu"
+	"Towang Chu"
+}

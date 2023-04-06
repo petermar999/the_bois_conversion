@@ -1,0 +1,37 @@
+government = monarchy
+add_government_reform = autocracy_reform
+government_rank = 1
+technology_group = chinese
+religion = hinduism
+primary_culture = tangut
+capital = 705
+fixed_capital = 705
+add_accepted_culture = sumpa
+1444.11.11= {
+	monarch = {
+		name = "(Regency Council)"
+		adm = 2
+		dip = 2
+		mil = 1
+		birth_date = 1.1.1
+		regent = yes
+		religion = hinduism
+		culture = tangut
+	}
+	heir = {
+		name = "Kunhritse"
+		dynasty = "Taktse"
+		adm = 4
+		dip = 4
+		mil = 3
+		birth_date = 1431.1.8
+		death_date = 1496.1.8
+		claim = 89
+		religion = hinduism
+		culture = tangut
+	}
+}
+1444.11.11= {
+	add_prestige = -2
+	add_treasury = 52
+}
