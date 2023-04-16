@@ -609,7 +609,7 @@ RUS_ideas = {
 		shock_damage_received = -0.20
 	}
 	table_of_ranks = {
-		yearly_patriarch_authority = 0.005
+		yearly_patriarch_authority = 0.02
 	}	
 	curriculum_of_the_cadet_corps = {
 		all_estate_loyalty_equilibrium = 0.2
